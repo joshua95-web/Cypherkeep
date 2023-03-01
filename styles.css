@@ -1,8 +1,8 @@
-.mainTitle {
-    font-family: 'Anton', sans-serif 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 .wholePage {
     display: flex;
     justify-content: center;
+}
+
+.mainTitle {
+    font-family: monospace, 'Courier New', Courier, Lucidatypewriter;
 }
