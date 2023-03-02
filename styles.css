@@ -29,3 +29,9 @@
     width: 400px;
     border: solid rgb(66, 182, 245);
 }
+
+.rightSideBannerContainer {
+    border: solid red;
+    display: flex;
+    justify-content: flex-end;
+}
