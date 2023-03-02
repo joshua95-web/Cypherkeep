@@ -6,10 +6,11 @@
 
 .mainTitle {
     font-family: monospace, 'Courier New', Courier, Lucidatypewriter;
-    font-size: 35px;
+    font-size: 45px;
     color: rgb(66, 182, 245);
     display: flex;
     justify-content: center;
+    margin-bottom: -30px;
     width: 100%;
 }
 
