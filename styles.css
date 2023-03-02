@@ -21,3 +21,11 @@
     justify-content: center;
     width: 100%;
 }
+
+.logInBanner {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:black;
+    width: 400px;
+    border: solid rgb(66, 182, 245);
+}
