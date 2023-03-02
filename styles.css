@@ -59,7 +59,8 @@
 }
 
 .rightSideBannerContainer {
-    
+    animation-duration: 1s;
+    animation-delay: 0.5s;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
