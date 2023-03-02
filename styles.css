@@ -30,7 +30,6 @@
     margin-top: 100px;
     padding-left: 20px;
     width: 1000px;
-    border: solid rgb(66, 182, 245);
 }
 
 .aboutBanner {
@@ -38,7 +37,9 @@
     font-size: 25px;
     color: white;
     background-color: rgb(66, 182, 245);
-
+    margin-top: 100px;
+    padding-left: 20px;
+    width: 1000px;
 }
 
 .rightSideBannerContainer {
