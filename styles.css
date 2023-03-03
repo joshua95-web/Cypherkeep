@@ -45,9 +45,15 @@
     border-radius: 15px 50px;
 }
 
+.noDecoration, a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
 .signUpBanner {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
+    text-decoration: none;
     color: white;
     background-color: rgb(66, 182, 245);
     margin-top: 50px;
