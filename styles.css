@@ -23,15 +23,18 @@
     width: 100%;
 }
 
+
 .logInBanner {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
     color:white;
+    border: solid rgb(66, 182, 245);
     background-color: rgb(66, 182, 245);
     margin-top: 100px;
     padding-left: 20px;
     width: 1000px;
     border-radius: 15px 50px;
+    display: block;
 }
 
 .aboutBanner {
