@@ -25,10 +25,13 @@
 
 
 .logInBanner, a.logInBanner:link, a.logInBanner:visited {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 70px;
     text-decoration: none;
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
     color:white;
     border: solid rgb(66, 182, 245);
     background-color: rgb(66, 182, 245);
@@ -39,10 +42,13 @@
 }
 
 .aboutBanner, a.aboutBanner:link, a.aboutBanner:visited {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 70px;
     text-decoration: none;
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
     color: white;
     border: solid rgb(66, 182, 245);
     background-color: rgb(66, 182, 245);
@@ -53,10 +59,13 @@
 }
 
 .signUpBanner, a.signUpBanner:link, a.signUpBanner:visited {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 70px;
     text-decoration: none;
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
     text-decoration: none;
     color: white;
     border: solid rgb(66, 182, 245);
