@@ -24,7 +24,7 @@
 }
 
 
-.logInBanner, a:link, a:visited {
+.logInBanner, a.logInBanner:link, a.logInBanner:visited {
     text-decoration: none;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -36,10 +36,9 @@
     padding-left: 20px;
     width: 1000px;
     border-radius: 15px 50px;
-    display: block;
 }
 
-.aboutBanner, a:link, a:visited {
+.aboutBanner, a.aboutBanner:link, a.aboutBanner:visited {
     text-decoration: none;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -53,7 +52,7 @@
     border-radius: 15px 50px;
 }
 
-.signUpBanner, a:link, a:visited {
+.signUpBanner, a.signUpBanner:link, a.signUpBanner:visited {
     text-decoration: none;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
