@@ -49,9 +49,16 @@
     border-radius: 15px 50px;
 }
 
-.noDecoration, a:link, a:visited {
+.noDecoration1, a:link, a:visited {
     text-decoration: none;
     color: white;
+    border: solid red;
+}
+
+.noDecoration2, a:link, a:visited {
+    text-decoration: none;
+    color: white;
+    border: solid red;
 }
 
 .signUpBanner {
@@ -67,6 +74,12 @@
     border-radius: 15px 50px;
     display: flex;
     justify-content: flex-end;
+}
+
+.noDecoration3, a:link, a:visited {
+    text-decoration: none;
+    color: white;
+    border: solid red;
 }
 
 .rightSideBannerContainer {
