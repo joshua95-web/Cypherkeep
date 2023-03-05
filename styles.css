@@ -112,7 +112,7 @@
 }
 
 input[type="submit"] {
-    font-family: monospace, 'Courier New', Courier, Lucidiatypewriter;
+    font-family: monospace, 'Courier New', Courier, Lucidatypewriter;
     color:white;
     font-size: 25px;
     margin-top: 15px;
@@ -122,6 +122,14 @@ input[type="submit"] {
     border-radius: 15px 50px;
     padding-left: 15px;
     padding-right: 15px;
+}
+
+input[type="email"], input[type="password"], input[type="repeatPassword"] {
+    font-family: monospace, 'Courier New', Courier, Lucidatypewriter;
+    font-size: 18px;
+    color: rgb(28, 95, 139);
+    padding: 5px;
+    margin: 20px;
 }
 
 form {
