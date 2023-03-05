@@ -14,9 +14,13 @@
     <script src="script.js"></script>
     <div class="wholePage">
         <div id="signUpForm">
-        <form name="signUpForm">
+        <form name="signUpForm" onsubmit="return validateForm()">
             <h1>Sign up to Cypherkeep</h1>
-            <label for="Email">Email:</label>
+            <label for="email">Email:</label>
+            <input type="email" name="email" required>
+            <label for="password">Password:</label>
+            <input type="password" name="password" required>
+            <input type="submit" value="Submit">
         </form>
         </div>
     </div>
