@@ -1,11 +1,7 @@
 function validateForm() {
     const email = document.forms["signUpForm"]["email"].value;
     const password = document.forms["signUpForm"]["password"].value;
-
-    if (name == "") {
-      alert("Name must be filled out");
-      return false;
-    }
+    const repeatPassword = document.forms ["signUpForm"]["repeatPassword"].value;
     if (email == "") {
       alert("Email must be filled out");
       return false;
@@ -13,5 +9,9 @@ function validateForm() {
     if (password == "") {
       alert("Password must be filled out");
       return false;
+    }
+    if (repeatPassword !== password) {
+        alert("Passwords don't match")
+        return false;
     }
 }
