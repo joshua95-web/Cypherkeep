@@ -106,4 +106,28 @@
     justify-content: center;
     margin-bottom: -30px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="submit"] {
+    font-family: monospace, 'Courier New', Courier, Lucidiatypewriter;
+    color:white;
+    font-size: 25px;
+    margin-top: 15px;
+    padding: 10px;
+    border: solid rgb(66, 182, 245);
+    background-color: rgb(66, 182, 245);
+    border-radius: 15px 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+form {
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 35px;
 }
