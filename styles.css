@@ -98,13 +98,7 @@
 
 /* CODE FOR SIGNUP.HTML */
 
-.animate_animated {
-    animation-fill-mode: both;
-}
-
-.signUpForm {
-    animation-duration: 1s;
-    animation-delay: 0.5s;
+#signUpForm {
     font-family: monospace, 'Courier New', Courier, Lucidatypewriter;
     font-size: 30px;
     color: rgb(66, 182, 245);
