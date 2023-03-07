@@ -15,3 +15,7 @@ function validateForm() {
         return false;
     }
 }
+
+function updatePasswordStrengthMeter() {
+  
+}
