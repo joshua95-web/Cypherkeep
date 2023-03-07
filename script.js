@@ -16,7 +16,3 @@ function validateForm() {
     }
 }
 
-function updatePasswordStrengthMeter() {
-  const password = document.getElementById("password").value;
-   const strengthMeter = document.getElementById("password-strength-meter");
-}
